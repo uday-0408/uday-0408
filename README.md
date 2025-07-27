@@ -41,8 +41,8 @@ A platform connecting job seekers and recruiters.
 A dynamic news website project showcasing the latest headlines and articles.  
 *Visit the repo to explore more!*
 
-### [py_2](https://github.com/uday-0408/py_2.git)
-A coding platform project designed to help users practice and improve their programming skills.  
+### [coding plateform](https://github.com/uday-0408/compiler.git)
+Full-stack Django web application with dual code execution methods (RapidAPI/Docker), supporting Python/C++/Java/C compilation with Monaco editor, admin panel, and responsive Bootstrap UI. 
 *Take a look to see my work on coding platforms!*
 
 ---
